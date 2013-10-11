@@ -5,7 +5,7 @@
   "main": "src/js/medium-editor.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daviferreira/medium-editor"
+    "url": "https://github.com/m43nu/medium-editor"
   },
   "license": "THE BEER-WARE LICENSE",
   "devDependencies": {
